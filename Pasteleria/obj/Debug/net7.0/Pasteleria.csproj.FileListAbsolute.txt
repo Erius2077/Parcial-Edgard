@@ -1,0 +1,8 @@
+C:\Users\edgar\source\repos\Pasteleria\Pasteleria\obj\Debug\net7.0\Pasteleria.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\Pasteleria\Pasteleria\obj\Debug\net7.0\Pasteleria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\source\repos\Pasteleria\Pasteleria\obj\Debug\net7.0\Pasteleria.AssemblyInfoInputs.cache
+C:\Users\edgar\source\repos\Pasteleria\Pasteleria\obj\Debug\net7.0\Pasteleria.AssemblyInfo.cs
+C:\Users\edgar\source\repos\Pasteleria\Pasteleria\obj\Debug\net7.0\Pasteleria.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Pasteleria\Pasteleria\obj\Debug\net7.0\Pasteleria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edgar\source\repos\Pasteleria\Pasteleria\obj\Debug\net7.0\Pasteleria.RazorAssemblyInfo.cache
+C:\Users\edgar\source\repos\Pasteleria\Pasteleria\obj\Debug\net7.0\Pasteleria.RazorAssemblyInfo.cs
